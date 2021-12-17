@@ -1,5 +1,5 @@
 .shadow {
-  box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+  box-shadow: 0 20px 200px rgb(0 0 0 / 68%);
 }
 
 /* Chat List */
@@ -153,7 +153,7 @@
 }
 
 .ce-danger-button {
-  background-color: #4a5162 !important;
+  background-color: #0d121f !important;
   border: 1px solid #9a97fc !important;
   color: #9a97fc !important;
 }
